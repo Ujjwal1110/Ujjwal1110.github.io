@@ -1,16 +1,40 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.f498355a.js",
-    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.8586e251.css",
+    "main.js": "/static/js/main.5a13709d.js",
+    "static/media/slide3.jpg": "/static/media/slide3.ede84e203086719c7db4.jpg",
+    "static/media/slide1.jpg": "/static/media/slide1.125f9fdfbc4e86863846.jpg",
+    "static/media/slide2.jpg": "/static/media/slide2.0de9e247c6ace7f5103f.jpg",
+    "static/media/BigBasket.jpg": "/static/media/BigBasket.0ef097c819b1a4215763.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Nykaa.jpg": "/static/media/Nykaa.119e213f9650b4445d0d.jpg",
+    "static/media/Lumen5.jpg": "/static/media/Lumen5.e2d20860d5c25118104f.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/profile.png": "/static/media/profile.6ab8c10fb6d6fd115509.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/resume.pdf": "/static/media/resume.130975d6326403504462.pdf",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/mongodb.svg": "/static/media/mongodb.d89a6eebb2b81e487ffc99f69a3f6ea4.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.52cbf9a89f44655c0375b9e9f88bf9c5.svg",
+    "static/media/express.svg": "/static/media/express.75fff9be2f3b289ba7be1f43a08f7a4c.svg",
+    "static/media/netlify.svg": "/static/media/netlify.1d9cb9ac8675567b57b681d16931917d.svg",
+    "static/media/react.svg": "/static/media/react.add74742e9e8f8827f7fa666dca760db.svg",
+    "static/media/css3.svg": "/static/media/css3.e7a9de36d9335d92932e93eb3b32deb9.svg",
+    "static/media/heroku.svg": "/static/media/heroku.5c9b3c2c4d563edd293feab8ee023a1b.svg",
+    "static/media/redux.svg": "/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/javascript.svg": "/static/media/javascript.fd46ca41839433d73577989d86eb2fe2.svg",
+    "static/media/react-router.svg": "/static/media/react-router.a87b722746890c8dcd6e20f04b6d53cd.svg",
+    "static/media/github.svg": "/static/media/github.c66b3c5adf421e87b1c707ba58321163.svg",
+    "static/media/html-5.svg": "/static/media/html-5.821ba738922e8952e57422f7b8a20362.svg",
+    "static/media/git-icon.svg": "/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.f498355a.js.map": "/static/js/main.f498355a.js.map",
-    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
+    "static/media/vercel.svg": "/static/media/vercel.c7601497a42f8804800988599277e84f.svg",
+    "main.8586e251.css.map": "/static/css/main.8586e251.css.map",
+    "main.5a13709d.js.map": "/static/js/main.5a13709d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f498355a.js"
+    "static/css/main.8586e251.css",
+    "static/js/main.5a13709d.js"
   ]
 }
